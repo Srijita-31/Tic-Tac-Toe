@@ -4,7 +4,7 @@ A simple, responsive Tic Tac Toe game built using HTML, CSS, and JavaScript. Thi
 
 ## Features
 
-- **Interactive Gameplay**: Play against a friend in a classic Tic Tac Toe grid.
+- **Interactive Gameplay**: Play against in a classic Tic Tac Toe grid.
 - **Responsive Design**: The game is fully responsive and works on all screen sizes.
 - **Clean and Simple UI**: A minimalist interface for distraction-free gaming.
 
